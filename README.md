@@ -18,7 +18,7 @@ pip install -r requirements.txt
 **2. Запустить парсер**
 
 ```bash
-python parser.py
+python main.py
 ```
 
 После выполнения в папке появятся два файла:
