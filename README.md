@@ -7,9 +7,11 @@
 
 ## Запуск
 
-**1. Установить зависимости**
+**1. Установить зависимости и venv**
 
 ```bash
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
